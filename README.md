@@ -80,6 +80,8 @@
 
 ## Technology Stack
 
+![Screenshot 2024-11-09 040219](https://github.com/user-attachments/assets/825b16ac-9b34-4d3b-b35c-0fa952d2659c)
+
 **Our project, Sangrakshak, is in the development phase and we have already implemented a robust foundation using several cutting-edge technologies. We plan to integrate even more features to make it fully market-ready.**
 
 ### Frontend:
