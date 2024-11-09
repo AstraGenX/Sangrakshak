@@ -246,7 +246,31 @@
 
 ## 💻 Prototype
 
+Our prototype demonstrates key components of the Sangrakshak security system, offering a glimpse into its functionality as a CAPTCHA replacement mechanism. Below are the major interfaces featured in this prototype:
 
+1. Landing Page
+
+![WhatsApp Image 2024-11-09 at 10 03 54_3c6e3c9f](https://github.com/user-attachments/assets/261b95af-848b-4449-9a4b-ec2f6984c1ef)
+
+2. Training Report Page
+
+![WhatsApp Image 2024-11-09 at 10 03 55_10ced0fc](https://github.com/user-attachments/assets/a55e826d-f583-4e83-8bce-c0dd124e284d)
+
+3. Sign-In Page
+
+![WhatsApp Image 2024-11-09 at 10 03 57_da53bc76](https://github.com/user-attachments/assets/f2c6ad3f-55ed-4eda-b754-c5980ba97460)
+
+4. UIDAI Portal Demo - No Suspicious Activity
+
+![WhatsApp Image 2024-11-09 at 10 03 58_dfeb2c24](https://github.com/user-attachments/assets/6bb1433a-b5c4-4366-ac16-351d2197d938)
+
+5. UIDAI Portal Demo - Suspicious Activity Detected
+
+![WhatsApp Image 2024-11-09 at 10 03 58_2a3c8688](https://github.com/user-attachments/assets/61c5d6d6-4338-49ca-a93c-a34b19747913)
+
+7. Analyzing Data Page
+
+![WhatsApp Image 2024-11-09 at 10 03 58_b8e6e8e9](https://github.com/user-attachments/assets/5e52ee3b-807f-4096-8a1b-63f577fef848)
 
 ---
 
