@@ -253,9 +253,9 @@
 ## 📊 Model Performance
 
 ### 1. Model Accuracy
-The current performance of our Sangrakshak model achieves an accuracy of 75.62%, showcasing its capability to effectively distinguish between human and bot activity. This milestone underscores Sangrakshak's potential as a robust, CAPTCHA-free security solution. Below is the depiction of the model's evaluation.
+The current performance of our Sangrakshak model achieves an accuracy of 70.16%, showcasing its capability to effectively distinguish between human and bot activity. This milestone underscores Sangrakshak's potential as a robust, CAPTCHA-free security solution. Below is the depiction of the model's evaluation.
 
-![Screenshot 2024-11-09 041443](https://github.com/user-attachments/assets/9caa4240-da12-42b1-9d18-7d9c247661e4)
+![Screenshot 2024-11-09 082945](https://github.com/user-attachments/assets/8736e3d8-c209-4518-a94a-a40dec83912b)
 
 ### 2. Feature Importance for Enhanced Bot Detection
 To gain insights into the decision-making process of our model, the plot below illustrates the importance of various features used to distinguish bot-like behavior from human interaction:
@@ -267,7 +267,7 @@ To gain insights into the decision-making process of our model, the plot below i
 ## 📝 Future Roadmap
 
 1. **Model Optimization**
-   - Improve accuracy from 75.62% to 85%+.
+   - Improve accuracy from 70.16% to 85%+.
    - Implement advanced feature engineering and hyperparameter tuning.
 
 2. **Real-Time Detection**
